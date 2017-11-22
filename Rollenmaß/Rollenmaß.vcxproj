@@ -167,8 +167,15 @@
     <ResourceCompile Include="Rollenmaß.rc" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="Rollenmass.JPG" />
     <Image Include="Rollenmaß.ico" />
     <Image Include="small.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Readme.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="IKO_CADFile.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

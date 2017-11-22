@@ -66,5 +66,14 @@
     <Image Include="Rollenmaß.ico">
       <Filter>Ressourcendateien</Filter>
     </Image>
+    <Image Include="Rollenmass.JPG">
+      <Filter>Ressourcendateien</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Readme.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="IKO_CADFile.txt" />
   </ItemGroup>
 </Project>
